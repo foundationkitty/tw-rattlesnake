@@ -1,4 +1,5 @@
 diff --git a/device/sample/etc/apns-full-conf.xml b/device/sample/etc/apns-full-conf.xml
+index bb08dc5..e2d0009 100644
 --- a/device/sample/etc/apns-full-conf.xml
 +++ b/device/sample/etc/apns-full-conf.xml
 @@ -21,6 +21,15 @@
